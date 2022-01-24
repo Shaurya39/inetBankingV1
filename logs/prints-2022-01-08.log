@@ -1,0 +1,7 @@
+18:47:05.526 [main] INFO  com.inetBanking.testCases.TC_LoginTest_001 - url loaded
+18:47:05.940 [main] INFO  com.inetBanking.testCases.TC_LoginTest_001 - username given
+18:47:06.102 [main] INFO  com.inetBanking.testCases.TC_LoginTest_001 - password given
+18:47:10.453 [main] INFO  com.inetBanking.testCases.TC_LoginTest_001 - clicked
+18:51:07.774 [main] INFO  com.inetBanking.testCases.BaseClass - url loaded
+18:51:08.015 [main] INFO  com.inetBanking.testCases.BaseClass - username given
+18:51:08.162 [main] INFO  com.inetBanking.testCases.BaseClass - password given
