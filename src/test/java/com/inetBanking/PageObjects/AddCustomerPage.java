@@ -96,6 +96,7 @@ public class AddCustomerPage {
 	public void fillPin(int pi)
 	{
 		pin.sendKeys(String.valueOf(pi));
+		
 	}
 	public void fillPhone(String ph)
 	{
