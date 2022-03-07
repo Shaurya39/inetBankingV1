@@ -43,6 +43,8 @@ public class TC_LoginTest_001 extends BaseClass {
 		log.info("username given");
 		lp.setPassword(password);
 		log.info("password given");
+		log.info("password given");
+		log.info("password given");
 		lp.clickSubmit();
 		log.info("clicked");
 		//System.out.println(driver.getTitle());
